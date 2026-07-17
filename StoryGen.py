@@ -52,7 +52,7 @@ Once upon a time,
         #Removes the prompt from the generated story
         story = story.replace(prompt, "").strip()
 
-        st.subheader("Your Generated Story: ")
+        st.subheader("Your Depraved Imagination Below: ")
         st.write(story)
 
 
